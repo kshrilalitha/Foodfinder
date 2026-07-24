@@ -36,7 +36,7 @@ This project was collaboratively developed by:
   - LinkedIn: https://linkedin.com/in/k-shri-lalitha-reddy-0aa82233a
 
 - **Rachana B C**
-  - GitHub: https://github.com/your-friend-github
+  - GitHub: https://github.com/rachana007-tech
 
 ---
 
